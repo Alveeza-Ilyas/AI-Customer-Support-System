@@ -1,4 +1,4 @@
-# NovaWare AI Support - Demo
+# NovaWare AI Support (Demo)
 
 A minimal demo of the AI-agent architecture from `AI-Agent-and-Model-Integration.md`:
 
